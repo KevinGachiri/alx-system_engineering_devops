@@ -1,5 +1,5 @@
 #!/bin/bash
 
-map <F2> :!ls<CR>:e
+:e
 
 
